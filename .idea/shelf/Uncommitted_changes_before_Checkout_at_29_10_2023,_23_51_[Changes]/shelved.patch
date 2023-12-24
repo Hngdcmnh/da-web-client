@@ -1,0 +1,145 @@
+Index: ../../../server/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"72cbe6d0-83b5-4e93-ba3c-2789b9cf0780\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/../client/web/sudoo/pubspec.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../client/web/sudoo/pubspec.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/repository/ProductRepository.kt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/repository/ProductRepository.kt\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/service/impl/ProductServiceImpl.kt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/service/impl/ProductServiceImpl.kt\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/AddressController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/AddressController.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/dto/AddressDto.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/dto/AddressDto.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/repository/entitity/Address.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/repository/entitity/Address.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/repository/entitity/Location.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/AddressService.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/AddressService.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/AddressServiceImpl.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/AddressServiceImpl.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/UserServiceImpl.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/UserServiceImpl.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Kotlin Object\" />\n        <option value=\"Kotlin Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 4\n}]]></component>\n  <component name=\"ProjectId\" id=\"2XN5ZXOIK0NhYmiftzEo97NAjEq\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RequestMappingsPanelOrder0\": \"0\",\n    \"RequestMappingsPanelOrder1\": \"1\",\n    \"RequestMappingsPanelWidth0\": \"75\",\n    \"RequestMappingsPanelWidth1\": \"75\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"ReactorSettings\">\n    <option name=\"notificationShown\" value=\"true\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"configurationTypes\">\n      <set>\n        <option value=\"SpringBootApplicationConfigurationType\" />\n      </set>\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Spring Boot.UserServiceApplication\">\n    <configuration name=\"ApiGatewayApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"api-gateway\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.apigateway.ApiGatewayApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"AuthServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"auth-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.authservice.AuthServiceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"CartServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"cart-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.cartservice.CartServiceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"NotificationApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"notification-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.notification.NotificationApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"OrderServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"order-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudo248.orderservice.OrderServiceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"PaymentServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"payment-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.paymentservice.PaymentServiceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"ProductServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"product-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.productservice.ProductServiceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"RegistryApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"registry\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.registry.RegistryApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"StorageServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"storage-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.storageservice.StorageServiceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"UserServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"user-service\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sudoo.userservice.UserServiceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"72cbe6d0-83b5-4e93-ba3c-2789b9cf0780\" name=\"Changes\" comment=\"\" />\n      <created>1698456753998</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1698456753998</updated>\n      <workItem from=\"1698456755318\" duration=\"23057000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+===================================================================
+diff --git a/../../../server/.idea/workspace.xml b/../../../server/.idea/workspace.xml
+--- a/../../../server/.idea/workspace.xml	
++++ b/../../../server/.idea/workspace.xml	
+@@ -4,18 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="72cbe6d0-83b5-4e93-ba3c-2789b9cf0780" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/../client/web/sudoo/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../client/web/sudoo/pubspec.lock" afterDir="false" />
++    <list default="true" id="72cbe6d0-83b5-4e93-ba3c-2789b9cf0780" name="Changes" comment="feat: refactor code">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/repository/ProductRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/repository/ProductRepository.kt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/service/impl/ProductServiceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/service/impl/ProductServiceImpl.kt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/AddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/AddressController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/dto/AddressDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/controller/dto/AddressDto.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/repository/entitity/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/repository/entitity/Address.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/repository/entitity/Location.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/AddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/AddressService.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/AddressServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/AddressServiceImpl.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/sudoo/userservice/service/impl/UserServiceImpl.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -33,31 +23,35 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 4
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 4
++}</component>
+   <component name="ProjectId" id="2XN5ZXOIK0NhYmiftzEo97NAjEq" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RequestMappingsPanelOrder0": "0",
+-    "RequestMappingsPanelOrder1": "1",
+-    "RequestMappingsPanelWidth0": "75",
+-    "RequestMappingsPanelWidth1": "75",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
++    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
++    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
++    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;be-dev&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="ReactorSettings">
+     <option name="notificationShown" value="true" />
+   </component>
+@@ -148,11 +142,59 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1698456753998</updated>
+-      <workItem from="1698456755318" duration="23057000" />
++      <workItem from="1698456755318" duration="13317000" />
+     </task>
++    <task id="LOCAL-00001" summary="feat: refactor code">
++      <option name="closed" value="true" />
++      <created>1698597184151</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1698597184151</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="be-dev" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="feat: logic price cart after add product" />
++    <MESSAGE value="feat: refactor code" />
++    <option name="LAST_COMMIT_MESSAGE" value="feat: refactor code" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="kotlin-line">
++          <url>file://$PROJECT_DIR$/product-service/src/main/kotlin/com/sudoo/productservice/controller/ProductController.kt</url>
++          <line>54</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
+ </project>
+\ No newline at end of file
