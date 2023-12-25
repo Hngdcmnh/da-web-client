@@ -9,15 +9,10 @@ import com.example.mshop.domain.common.Constants
 import dagger.hilt.android.HiltAndroidApp
 
 
-/**
- * **Created by**
- *
- * @author *Sudo248*
- * @since 00:50 - 05/03/2023
- */
+
 
 @HiltAndroidApp
-class SudooApplication : BaseApplication() {
+class MainApplication : BaseApplication() {
     override val enableNetworkObserver: Boolean = true
     override fun onCreate() {
         super.onCreate()

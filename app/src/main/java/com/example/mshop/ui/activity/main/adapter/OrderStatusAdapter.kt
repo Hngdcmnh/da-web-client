@@ -19,7 +19,7 @@ class OrderStatusAdapter(
             binding.apply {
                 this.tvName.text = item.product.name
                 this.tvCreatedAt.text = Utils.formatReceivedDate(item.createdAt)
-                this.tvOrderId.text = "#${item.orderId}"
+                this.tvOrderId.text = "Đơn hàng: #${item.orderId}"
                 this.tvPrice.text = Utils.formatVnCurrency(item.product.price)
                 loadImage(binding.ivImage, item.product.images[0])
                 this.tvQuantity.text = "x${item.quantity}"

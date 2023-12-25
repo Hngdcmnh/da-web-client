@@ -19,6 +19,6 @@ import retrofit2.http.POST
 interface PaymentService {
 
     @POST("pay")
-    suspend fun pay(@Body request: PaymentRequest): Response<com.example.mshop.data.api.BaseResponse<PaymentDto>>
+    suspend fun pay(@Body request: PaymentRequest): Response<BaseResponse<PaymentDto>>
 
 }
