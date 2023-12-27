@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-
         <import type="com.example.mshop.domain.entity.payment.PaymentType" />
-
         <variable
             name="viewModel"
             type="com.example.mshop.ui.activity.main.fragment.order.OrderViewModel" />
@@ -74,7 +72,6 @@
                     app:layout_constraintTop_toBottomOf="@id/cardInformationUser"
                     tools:itemCount="2"
                     tools:listitem="@layout/item_order_product" />
-                >
 
                 <androidx.constraintlayout.widget.ConstraintLayout
                     android:id="@+id/cardInformationUser"
